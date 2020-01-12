@@ -20,3 +20,4 @@ def position_taken?(board, input)
   end
 end
 
+puts thing(4)
