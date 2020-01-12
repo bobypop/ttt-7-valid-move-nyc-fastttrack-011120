@@ -20,4 +20,4 @@ def position_taken?(board, input)
   end
 end
 
-puts valid+move (board [" "], 0)
+puts valid_move?(board [" "], 0)
