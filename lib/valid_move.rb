@@ -4,6 +4,8 @@ def thing(input)
   if x.between?(0, 8)
   TRUE
   else FALSE
+end
+end
     
 def valid_move?(board, input)
 && position_taken(board, input)
