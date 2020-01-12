@@ -1,7 +1,7 @@
 # code your #valid_move? method here
 
 def thing(input)
-  if x.between?(0, 8)
+  if input.between?(0, 8)
   TRUE
   else FALSE
 end
