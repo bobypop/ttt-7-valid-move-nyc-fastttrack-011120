@@ -2,8 +2,8 @@
 
 def thing(input)
   if input.between?(0, 8)
-  TRUE
-  else FALSE
+  true
+  else false
 end
 end
     
