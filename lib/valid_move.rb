@@ -19,5 +19,3 @@ def position_taken?(board, input)
   else FALSE
   end
 end
-
-puts (4)
