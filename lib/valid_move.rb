@@ -15,7 +15,7 @@ end
 def position_taken?(board, input)
   if board[input] == "X" or board[input] = "O"
     FALSE
-  else true
+  else TRUE
   end
 end
 
